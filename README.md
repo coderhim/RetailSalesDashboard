@@ -84,5 +84,5 @@ The interactive dashboard includes:
 
 ## 📬 Contact
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or drop an issue here if you'd like to collaborate or ask questions!
+Feel free to connect on [LinkedIn](www.linkedin.com/in/himanshu2singh) or drop an issue here if you'd like to collaborate or ask questions!
 
